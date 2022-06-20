@@ -43,9 +43,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:estebvac@gmail.com
-<!--   - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen -->
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -55,6 +52,10 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/esteban-vaca/
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/GeorgeCushen
+ 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -72,5 +73,5 @@ highlight_name: true
 
 Esteban Vaca is a researcher in the Forschungszentrum Juelich In Germany, he is a graduate of the 'Medical Imaging and Applications' program which is an Erasmus Mundus Joint master's degree; funded by the European Union. His research focuses on the processing and analysis of medical images with an emphasis on machine/deep learning. She obtained a Bachelor of Science in 'Electrical & Control Engineering' from ' Escuela Politecnica Nacional in Quito Ecuador.
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
- -->
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
