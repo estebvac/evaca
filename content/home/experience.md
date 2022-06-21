@@ -51,7 +51,7 @@ experience:
         *  Develop of ossification region localization with help of deep-learning state-of-the-art object detection architectures. 
         *  Presentation of a Paper in the IEEE-BHI-BSN-2021 conference. Patent of the developed system is in process.
 
-- title: Laboratory Assistant
+  - title: Laboratory Assistant
     company: Escuela Politécnica Nacional
     company_url: 'https://www.epn.edu.ec/'
     company_logo: org-gc
@@ -60,7 +60,7 @@ experience:
     date_end: '2018-08-20'
     description: |2-
         Responsibilities include:
-        
+
         * Department of Automation and Industrial Control, Application development of of Industrial Process and Robotics Systems. 
         * Contribution in research projects of computer vision, robotics and control systems.
 
