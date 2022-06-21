@@ -20,15 +20,20 @@ feature:
     icon: python 
     icon_pack: fab
     name: Python
+  - description: 80%
+    icon: robot 
+    icon_pack: fab
+    name: Robotics
     # r-project
+  - description: 70%
+    icon: c
+    icon_pack: fas
+    name: c/c++
   - description: 100%
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
