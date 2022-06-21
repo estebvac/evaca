@@ -71,7 +71,7 @@ email: 'estebvac@gmail.com'
 highlight_name: true
 ---
 
-Esteban Vaca is a researcher in the Forschungszentrum Juelich In Germany, he is a graduate of the 'Medical Imaging and Applications' program which is an Erasmus Mundus Joint master's degree; funded by the European Union. His research focuses on the processing and analysis of medical images with an emphasis on machine/deep learning. She obtained a Bachelor of Science in 'Electrical & Control Engineering' from ' Escuela Politecnica Nacional in Quito Ecuador.
+Esteban Vaca is a researcher in the Forschungszentrum Juelich In Germany, he is a graduate of the 'Medical Imaging and Applications' program which is an Erasmus Mundus Joint master's degree; funded by the European Union. His research focuses on the processing and analysis of medical images with an emphasis on machine/deep learning. He obtained a Bachelor of Science in 'Electrical & Control Engineering' from ' Escuela Politecnica Nacional in Quito-Ecuador.
 
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
