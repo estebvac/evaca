@@ -25,7 +25,7 @@ experience:
   - title: Research Staff
     company: Forschungszentrum Jülich
     company_url: 'https://www.fz-juelich.de/en'
-    company_logo: 'https://www.juelich.de/lw_resource/layoutfiles/img/footer-fzj-logo.png'
+    company_logo: fzj
     location: Jülich-Germany
     date_start: '2020-10-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Research Intern
     company: Agfa Radiology Solutions
     company_url: 'https://medimg.agfa.com/main/'
-    company_logo: org-x
+    company_logo: agfa
     location: Antwerp-Belgium
     date_start: '2020-02-01'
     date_end: '2020-09-04'
@@ -54,7 +54,7 @@ experience:
   - title: Laboratory Assistant
     company: Escuela Politécnica Nacional
     company_url: 'https://www.epn.edu.ec/'
-    company_logo: org-gc
+    company_logo: epn
     location: Quito-Ecuador
     date_start: '2016-10-01'
     date_end: '2018-08-20'
