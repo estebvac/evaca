@@ -25,7 +25,7 @@ experience:
   - title: Research Staff
     company: Forschungszentrum Jülich
     company_url: 'https://www.fz-juelich.de/en'
-    company_logo: org-gc
+    company_logo: https://www.juelich.de/lw_resource/layoutfiles/img/footer-fzj-logo.png
     location: Jülich-Germany
     date_start: '2020-10-01'
     date_end: ''
